@@ -1,0 +1,5 @@
+Xuất sắc: Alice, Tom
+Giỏi: John, Mary
+Khá: Bob
+Trung bình: Anna
+Yếu: Peter

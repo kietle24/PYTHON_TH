@@ -1,0 +1,8 @@
+Danh sách giỏ hàng:
+150000 VND
+320000 VND
+450000 VND
+200000 VND
+280000 VND
+
+Tổng chi phí: 1400000 VND

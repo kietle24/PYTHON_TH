@@ -1,0 +1,5 @@
+=== ĐỀ XUẤT NHẬP HÀNG ===
+- Sữa: Nhập thêm 100 sản phẩm (dự báo bán 132 trong tháng tới)
+- Bánh: Nhập thêm 75 sản phẩm (dự báo bán 88 trong tháng tới)
+- Nước ngọt: Nhập thêm 200 sản phẩm (dự báo bán 220 trong tháng tới)
+- Mì gói: Nhập thêm 40 sản phẩm (dự báo bán 55 trong tháng tới)

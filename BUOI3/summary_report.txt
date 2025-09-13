@@ -1,0 +1,9 @@
+=== BÁO CÁO TỔNG KẾT ===
+Tổng số học sinh: 7
+Điểm trung bình toàn lớp: 78.29
+Tỉ lệ xếp loại:
+  Xuất sắc: 28.57%
+  Giỏi: 28.57%
+  Khá: 14.29%
+  Trung bình: 14.29%
+  Yếu: 14.29%

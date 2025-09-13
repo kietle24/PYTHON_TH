@@ -1,0 +1,6 @@
+make,fuel-type,num-of-doors,body-style,drive-wheels,engine-location,wheel-base,length,width,height,curb-weight,engine-size,bore,stroke,horsepower,peak-rpm,city-mpg,highway-mpg,price
+alfa-romero,gas,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,130,3.47,2.68,111,5000,21,27,13495
+alfa-romero,gas,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,130,3.47,2.68,111,5000,21,27,16500
+alfa-romero,gas,two,hatchback,rwd,front,94.5,171.2,65.5,52.4,2823,152,2.68,3.47,154,5000,19,26,16500
+audi,gas,four,sedan,fwd,front,99.8,176.6,66.2,54.3,2337,109,3.19,3.4,102,5500,24,30,13950
+audi,gas,four,sedan,4wd,front,99.4,176.6,66.4,54.3,2824,136,3.19,3.4,115,5500,18,22,17450

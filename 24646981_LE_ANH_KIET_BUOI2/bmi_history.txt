@@ -1,0 +1,7 @@
+=== LỊCH SỬ BMI ===
+Tuần 1: 27.68
+Tuần 2: 27.68
+Tuần 3: 27.68
+Tuần 4: 27.68
+Trung bình: 27.68
+Tuần cao nhất: 1 (BMI = 27.68)

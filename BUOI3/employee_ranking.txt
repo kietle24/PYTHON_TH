@@ -1,0 +1,4 @@
+Nguyen Van A,30,Nhân viên kinh doanh,1000.0,Trung bình
+Tran Thi B,25,Kế toán,1200.0,Khá
+Le Van C,28,Lập trình viên,1500.0,Giỏi
+Pham Thi D,35,Nhân viên marketing,900.0,Trung bình

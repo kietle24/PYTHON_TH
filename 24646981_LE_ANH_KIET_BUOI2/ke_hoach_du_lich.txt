@@ -1,0 +1,5 @@
+Kế hoạch chi phí du lịch
+Chuyến 1: 80 km - Chi phí: 800,000 VND
+Chuyến 2: 120 km - Chi phí: 1,080,000 VND
+Chuyến 3: 200 km - Chi phí: 1,800,000 VND
+Tổng chi phí: 3,680,000 VND

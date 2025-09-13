@@ -1,0 +1,4 @@
+Lịch sử lãi suất các tài khoản:
+Tài khoản 1: Gửi 50,000,000 VND -> Lãi 2,500,000 VND
+Tài khoản 2: Gửi 120,000,000 VND -> Lãi 7,200,000 VND
+Tài khoản 3: Gửi 80,000,000 VND -> Lãi 4,000,000 VND

@@ -1,0 +1,9 @@
+=== LỊCH SỬ GIỜ LÀM VIỆC ===
+Ngày 1: 9 giờ
+Ngày 2: 8 giờ
+Ngày 3: 10 giờ
+Ngày 4: 7 giờ
+Ngày 5: 12 giờ
+
+Tổng overtime: 2.0 giờ
+Tổng thưởng overtime: 150000 VND

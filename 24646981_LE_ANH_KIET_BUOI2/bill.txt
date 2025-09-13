@@ -1,0 +1,5 @@
+=== HÓA ĐƠN NHÀ HÀNG ===
+a: 200000 VND
+b: 200000 VND
+d: 270000 VND
+TỔNG CỘNG: 675000 VND

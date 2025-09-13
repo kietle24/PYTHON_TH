@@ -1,0 +1,6 @@
+# Danh sách nhân viên ban đầu
+employees = {
+    "An": {"age": 25, "position": "Developer", "salary": 1500},
+    "Binh": {"age": 30, "position": "Manager", "salary": 2500},
+    "Chi": {"age": 28, "position": "Tester", "salary": 1200}
+}

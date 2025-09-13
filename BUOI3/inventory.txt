@@ -1,0 +1,5 @@
+Laptop, 12
+Phone, 30
+Tablet, 8
+Headphone, 50
+Camera, 4

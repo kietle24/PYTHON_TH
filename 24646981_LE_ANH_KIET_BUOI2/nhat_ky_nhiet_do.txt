@@ -1,0 +1,10 @@
+Nhiệt độ 5 ngày:
+Ngày 1: 28°C
+Ngày 2: 31°C
+Ngày 3: 30°C
+Ngày 4: 33°C
+Ngày 5: 27°C
+
+Số ngày nóng: 2
+Nhiệt độ trung bình: 29.8°C
+Dự báo: Nóng

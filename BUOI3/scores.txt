@@ -1,0 +1,6 @@
+John, 85
+Alice, 92
+Bob, 76
+Mary, 88
+Tom, 95
+Anna, 67
