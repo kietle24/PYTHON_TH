@@ -1,0 +1,18 @@
+===== Thống kê nhiệt độ năm =====
+Nhiệt độ trung bình năm: 27.89°C
+Nhiệt độ cao nhất năm: 39.93°C
+Nhiệt độ thấp nhất năm: 15.12°C
+
+===== Thống kê theo tháng =====
+Tháng 1: 28.54°C → Trung bình
+Tháng 2: 26.95°C → Trung bình
+Tháng 3: 28.43°C → Trung bình
+Tháng 4: 27.12°C → Trung bình
+Tháng 5: 26.20°C → Trung bình
+Tháng 6: 26.53°C → Trung bình
+Tháng 7: 27.39°C → Trung bình
+Tháng 8: 29.35°C → Trung bình
+Tháng 9: 27.29°C → Trung bình
+Tháng 10: 26.16°C → Trung bình
+Tháng 11: 26.68°C → Trung bình
+Tháng 12: 28.19°C → Trung bình
